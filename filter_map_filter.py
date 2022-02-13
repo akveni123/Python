@@ -15,7 +15,7 @@ evenlst = list(filter(lambda n: n%2==0,num))
 
 lst1 = evenlst
 
-# print('Even numbers: {}'.format(lst1))
+print('Even numbers: {}'.format(lst1))
 
 # map
 multiply = list(map(lambda a : a*2, evenlst))

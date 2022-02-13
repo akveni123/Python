@@ -8,5 +8,5 @@ def sort(list):
 
 list = [4,3,6,5,4,8,90]
 sort(list)
-
+print(len(list))
 print(list)

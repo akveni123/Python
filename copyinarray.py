@@ -6,7 +6,7 @@ arr1 = array([0,0,0,0,0])
 
 arr2 = concatenate([arr,arr1])
 
-# print(arr2)
+print(arr2)
 
 arr3 = arr.copy()
 print(arr)
